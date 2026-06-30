@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/L0G64g3LOKnE6Cuv0J/giphy.gif" width="600" alt="AI Neural Network GIF">
+
 # 🚀 Advanced RAG Architectures
 ### *I Love RAG (Retrieval-Augmented Generation)*
 
@@ -10,7 +12,7 @@
 [![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=white)](#)
 
 > **Transforming raw text into intelligent, grounded, and context-aware AI systems.**
-> This repository contains six distinct projects, each exploring a progressively complex RAG architecture.
+> This repository contains six distinct implementations, each exploring a progressively complex RAG architecture.
 
 </div>
 
@@ -31,31 +33,51 @@ As outlined in the project roadmap (reference: `image_742b9e.png`), this reposit
 
 ---
 
-## 📂 Project Spotlights
+## 📂 Architecture Spotlights
 
-### 1. LexiQuery (Standard RAG)
-A legal tech assistant designed to process massive legal contracts.
-* Slices multi-page PDFs into overlapping contextual chunks.
-* Embeds text using lightweight, local HuggingFace models.
-* Enforces strict citation rules to prevent AI hallucination.
+<details>
+<summary><b>🔍 1. Standard RAG (Baseline Implementation)</b></summary>
+<br>
+A foundational semantic search assistant designed to process large, multi-page document corpuses.
 
-### 2. MedLit Search (HyDE RAG)
-An advanced medical literature research tool.
-* Bypasses the "vocabulary gap" between short user queries and dense medical abstracts.
-* Uses Groq to hallucinate a scientifically accurate "fake" paper as a search vector.
-* Retrieves highly specific biomedical pathways and clinical trial data.
+* **Chunking:** Slices massive PDFs and text files into overlapping contextual chunks.
+* **Embedding:** Converts text into vector space using lightweight, local HuggingFace models.
+* **Grounding:** Enforces strict citation rules to prevent AI hallucination and ensure factual responses.
+</details>
 
-### 3. Fusion RAG *(Coming Soon)*
-*Documentation in progress.*
+<details>
+<summary><b>🧠 2. HyDE RAG (Hypothetical Document Embeddings)</b></summary>
+<br>
+An advanced retrieval tool optimized for dense, highly technical, or academic datasets.
 
-### 4. Agentic RAG *(Coming Soon)*
-*Documentation in progress.*
+* **Bridging the Gap:** Bypasses the "vocabulary gap" between short user queries and complex source documents.
+* **LLM Hallucination for Good:** Uses a fast LLM to generate a structurally accurate "fake" document as the search vector.
+* **Precision:** Retrieves highly specific passages that standard keyword or basic vector searches easily miss.
+</details>
 
-### 5. Graph RAG *(Coming Soon)*
-*Documentation in progress.*
+<details>
+<summary><b>🧬 3. Fusion RAG <i>(Coming Soon)</i></b></summary>
+<br>
+<i>Documentation and implementation in progress.</i>
+</details>
 
-### 6. Multi-Modal RAG *(Coming Soon)*
-*Documentation in progress.*
+<details>
+<summary><b>🤖 4. Agentic RAG <i>(Coming Soon)</i></b></summary>
+<br>
+<i>Documentation and implementation in progress.</i>
+</details>
+
+<details>
+<summary><b>🕸️ 5. Graph RAG <i>(Coming Soon)</i></b></summary>
+<br>
+<i>Documentation and implementation in progress.</i>
+</details>
+
+<details>
+<summary><b>👁️ 6. Multi-Modal RAG <i>(Coming Soon)</i></b></summary>
+<br>
+<i>Documentation and implementation in progress.</i>
+</details>
 
 ---
 
@@ -63,7 +85,7 @@ An advanced medical literature research tool.
 
 Clone the repository and install the required dependencies to run these pipelines locally.
 
-**Clone the repo:**
+**1. Clone the repo:**
 ```bash
 git clone [https://github.com/babaralimahar/RAG-Projects.git](https://github.com/babaralimahar/RAG-Projects.git)
 cd RAG-Projects
