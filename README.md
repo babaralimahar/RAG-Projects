@@ -33,54 +33,6 @@ As outlined in the project roadmap (reference: `image_742b9e.png`), this reposit
 
 ---
 
-## 📂 Architecture Spotlights
-
-<details>
-<summary><b>🔍 1. Standard RAG (Baseline Implementation)</b></summary>
-<br>
-A foundational semantic search assistant designed to process large, multi-page document corpuses.
-
-* **Chunking:** Slices massive PDFs and text files into overlapping contextual chunks.
-* **Embedding:** Converts text into vector space using lightweight, local HuggingFace models.
-* **Grounding:** Enforces strict citation rules to prevent AI hallucination and ensure factual responses.
-</details>
-
-<details>
-<summary><b>🧠 2. HyDE RAG (Hypothetical Document Embeddings)</b></summary>
-<br>
-An advanced retrieval tool optimized for dense, highly technical, or academic datasets.
-
-* **Bridging the Gap:** Bypasses the "vocabulary gap" between short user queries and complex source documents.
-* **LLM Hallucination for Good:** Uses a fast LLM to generate a structurally accurate "fake" document as the search vector.
-* **Precision:** Retrieves highly specific passages that standard keyword or basic vector searches easily miss.
-</details>
-
-<details>
-<summary><b>🧬 3. Fusion RAG <i>(Coming Soon)</i></b></summary>
-<br>
-<i>Documentation and implementation in progress.</i>
-</details>
-
-<details>
-<summary><b>🤖 4. Agentic RAG <i>(Coming Soon)</i></b></summary>
-<br>
-<i>Documentation and implementation in progress.</i>
-</details>
-
-<details>
-<summary><b>🕸️ 5. Graph RAG <i>(Coming Soon)</i></b></summary>
-<br>
-<i>Documentation and implementation in progress.</i>
-</details>
-
-<details>
-<summary><b>👁️ 6. Multi-Modal RAG <i>(Coming Soon)</i></b></summary>
-<br>
-<i>Documentation and implementation in progress.</i>
-</details>
-
----
-
 ## ⚙️ Quick Start Installation
 
 Clone the repository and install the required dependencies to run these pipelines locally.
