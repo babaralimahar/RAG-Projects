@@ -1,0 +1,5 @@
+Title: Cardiovascular Effects of Metformin Beyond Glycemic Control
+
+Abstract: Beyond its glucose-lowering properties, metformin has demonstrated cardiovascular benefits that appear independent of its effects on blood glucose. The UK Prospective Diabetes Study (UKPDS) first reported reduced risk of myocardial infarction in overweight patients with T2DM treated with metformin compared to conventional therapy, an effect that persisted in long-term follow-up. Proposed mechanisms include improved endothelial function, reduced oxidative stress, favorable effects on lipid profiles, and modest reductions in body weight compared to sulfonylureas or insulin. Metformin has also been associated with reduced platelet aggregation and improved fibrinolysis, potentially lowering thrombotic risk. Although newer agents such as SGLT2 inhibitors and GLP-1 receptor agonists have stronger cardiovascular outcome trial evidence, metformin's cardiovascular safety profile and low cost continue to support its position as first-line therapy in most treatment guidelines.
+
+Keywords: metformin, cardiovascular outcomes, UKPDS, endothelial function, myocardial infarction

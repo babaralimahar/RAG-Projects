@@ -1,0 +1,5 @@
+Title: SGLT2 Inhibitors: Renal and Cardiovascular Protection in Type 2 Diabetes
+
+Abstract: Sodium-glucose cotransporter-2 (SGLT2) inhibitors lower blood glucose by blocking renal glucose reabsorption in the proximal tubule, leading to glucosuria and modest weight loss. Landmark trials such as EMPA-REG OUTCOME and CANVAS demonstrated substantial reductions in cardiovascular death and hospitalization for heart failure among patients with T2DM and established cardiovascular disease. Renal protective effects have also been consistently observed, with trials such as CREDENCE showing reduced progression of diabetic kidney disease independent of glycemic effects. Proposed mechanisms for these benefits include reduced intraglomerular pressure, natriuresis-driven reductions in plasma volume, and favorable effects on cardiac energy metabolism through increased ketone body utilization. Given this robust evidence base, SGLT2 inhibitors are now recommended as preferred second-line agents, particularly in patients with heart failure or chronic kidney disease.
+
+Keywords: SGLT2 inhibitors, empagliflozin, diabetic kidney disease, heart failure, cardiovascular protection

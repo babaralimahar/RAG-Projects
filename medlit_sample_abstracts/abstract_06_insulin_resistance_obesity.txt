@@ -1,0 +1,5 @@
+Title: Adipose Tissue Dysfunction and Insulin Resistance in Obesity-Related Type 2 Diabetes
+
+Abstract: Obesity is the strongest modifiable risk factor for type 2 diabetes, with adipose tissue dysfunction playing a central pathophysiological role. Expansion of visceral adipose tissue beyond its storage capacity leads to adipocyte hypertrophy, hypoxia, and subsequent macrophage infiltration, creating a chronic pro-inflammatory state. Dysregulated secretion of adipokines, including reduced adiponectin and elevated leptin and resistin, further impairs insulin signaling in liver and muscle. Free fatty acid spillover from dysfunctional adipose tissue promotes ectopic fat deposition, directly interfering with insulin receptor signaling cascades. Weight loss interventions, whether through lifestyle modification, pharmacotherapy, or bariatric surgery, consistently improve insulin sensitivity and can induce diabetes remission in a substantial proportion of patients, underscoring the centrality of adipose tissue biology in T2DM pathogenesis.
+
+Keywords: obesity, adipose tissue, insulin resistance, adipokines, bariatric surgery

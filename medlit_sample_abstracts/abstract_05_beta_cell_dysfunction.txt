@@ -1,0 +1,5 @@
+Title: Progressive Beta-Cell Dysfunction as a Driver of Type 2 Diabetes Progression
+
+Abstract: While insulin resistance is a hallmark of early type 2 diabetes, progressive decline in beta-cell function ultimately drives the transition from prediabetes to overt hyperglycemia and subsequent treatment intensification. Longitudinal studies estimate that beta-cell function declines at a rate of approximately 4-5% per year following diagnosis, even with adequate glycemic control. Mechanisms underlying this decline include glucotoxicity, lipotoxicity, oxidative stress, endoplasmic reticulum stress, and amyloid deposition within pancreatic islets. Chronic hyperglycemia induces beta-cell apoptosis through activation of the unfolded protein response and increased reactive oxygen species production. Therapeutic strategies aimed at preserving beta-cell mass and function, including early combination therapy and GLP-1 receptor agonists, may alter the natural history of disease progression and delay the need for insulin therapy.
+
+Keywords: beta-cell dysfunction, glucotoxicity, islet amyloid, disease progression, type 2 diabetes
